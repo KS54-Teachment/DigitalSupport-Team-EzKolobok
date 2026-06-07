@@ -185,5 +185,4 @@ def main():
         else:
             print("Неверный выбор. Попробуйте снова.")
 
-if __name__ == "__main__":
-    main()
+main()

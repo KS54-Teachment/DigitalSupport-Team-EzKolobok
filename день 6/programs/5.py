@@ -94,5 +94,4 @@ def main():
     
     print("\nОтчёт готов! Можете открыть файл report.txt.")
 
-if __name__ == "__main__":
-    main()
+main()
